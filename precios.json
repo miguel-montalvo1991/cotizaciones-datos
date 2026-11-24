@@ -1,0 +1,31 @@
+{
+  "version": "2026-11-24",
+  "moneda": "COP",
+  "margen": 0.4,
+  "iva": 0.19,
+  "redondeo": 50,
+  "factor_tamano": {
+    "carta": 1,
+    "oficio": 1.2,
+    "a3": 2
+  },
+  "papel": {
+    "bond_75g": 120,
+    "propalcote_115g": 220,
+    "cartulina_240g": 450
+  },
+  "tinta_por_cara": {
+    "bn": 60,
+    "color": 350
+  },
+  "acabados": {
+    "laminado": 900,
+    "anillado": 3500,
+    "corte": 150
+  },
+  "descuentos_volumen": [
+    { "desde": 100, "pct": 0.05 },
+    { "desde": 500, "pct": 0.1 },
+    { "desde": 1000, "pct": 0.15 }
+  ]
+}
