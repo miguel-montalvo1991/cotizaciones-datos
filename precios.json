@@ -10,7 +10,7 @@
     "a3": 2
   },
   "papel": {
-    "bond_75g": 120,
+    "bond_75g": 130,
     "propalcote_115g": 220,
     "cartulina_240g": 450
   },
@@ -24,8 +24,17 @@
     "corte": 150
   },
   "descuentos_volumen": [
-    { "desde": 100, "pct": 0.05 },
-    { "desde": 500, "pct": 0.1 },
-    { "desde": 1000, "pct": 0.15 }
+    {
+      "desde": 100,
+      "pct": 0.05
+    },
+    {
+      "desde": 500,
+      "pct": 0.1
+    },
+    {
+      "desde": 1000,
+      "pct": 0.15
+    }
   ]
 }
