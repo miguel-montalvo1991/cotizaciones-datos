@@ -1,0 +1,39 @@
+{
+  "id": "COT-2026-0003",
+  "fecha": "2026-11-24T20:53:38.858Z",
+  "moneda": "COP",
+  "precios_version": "2026-11-24",
+  "trabajo": {
+    "cliente": "Demo",
+    "descripcion": "Volantes",
+    "papel": "propalcote_115g",
+    "tamano": "carta",
+    "color": "color",
+    "caras": 2,
+    "cantidad": 500,
+    "acabados": [
+      "corte"
+    ]
+  },
+  "resultado": {
+    "costo_unitario": 1070,
+    "costo_base": 535000,
+    "margen_valor": 214000,
+    "descuento_pct": 0.1,
+    "descuento_valor": 74900,
+    "subtotal": 674100,
+    "iva_valor": 128079,
+    "total": 802179,
+    "precio_unitario_venta": 1348,
+    "tarifas_aplicadas": {
+      "papel_por_hoja": 220,
+      "tinta_por_cara": 350,
+      "factor_tamano": 1,
+      "acabados": {
+        "corte": 150
+      },
+      "margen": 0.4,
+      "iva": 0.19
+    }
+  }
+}
